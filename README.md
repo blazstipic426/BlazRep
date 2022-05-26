@@ -1,0 +1,2 @@
+# BlazRep
+Samo za vjezbu
